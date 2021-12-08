@@ -15,7 +15,7 @@ const TestimonialsCarousel = () => {
     showThumbs={false} 
     showStatus={false}
     autoPlay={true}
-    interval={3000}
+    interval={2000}
     >
       <>
         <img src={avatar1} alt="John Doe 1" />
